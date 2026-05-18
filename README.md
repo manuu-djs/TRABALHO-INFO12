@@ -46,5 +46,5 @@ if (saldo >= preco) {
 
 } else {
 
-    console.log("Saldo insuficiente")
+        console.log("Saldo insuficiente")
 }
